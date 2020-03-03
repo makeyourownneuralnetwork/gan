@@ -1,2 +1,3 @@
-# Make Your Own GAN
-python notebooks accompanying the book Make Your Own GAN
+# Make Your First GAN With PyTorch
+
+python notebooks accompanying the book Make Your First GAN With PyTorch
